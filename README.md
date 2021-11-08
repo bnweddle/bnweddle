@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bnweddle
 - 👀 I’m interested in unique projects and fun activities
-- 🌱 I’m currently learning SQL, Oracle, and Modbus communication
+- 🌱 I’m currently learning SQL, Oracle, ASP.NET, JavaScript, C#, Modbus communication
 - 💞️ I’m looking to collaborate on a team of great individuals
 - 📫 How to reach me would be the through my LinkedIn profile
 
